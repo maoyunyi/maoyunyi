@@ -1,6 +1,6 @@
 ### 你好 👋
 
-- 这是个有趣的地方，我还没想好把这用来展示什么...
+- ![img](0e2698207aa87275fce75a1e8b26c5d4.jpg)
 
 <!--
 **maoyunyi/maoyunyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
