@@ -1,10 +1,10 @@
--------------------
+
 
 他，出身勞苦家庭，依靠獎學金同時就讀於8所名牌大學，刻苦研修哲學、歷史、文學和藝術，精通拉丁文和希臘文，24歲取得哲學和文學博士學位，擁有超凡的口才、36歲任全國作協主席。
 
 這個人的名字叫保羅·約瑟夫·戈培爾（Paul Joseph Goebbels）。
 
---------------------------------------------
+
 <!--
 **maoyunyi/maoyunyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
